@@ -1,5 +1,20 @@
 # Changelog
 
+## [0.3.6](https://github.com/k8sgpt-ai/k8sgpt/compare/v0.3.5...v0.3.6) (2023-05-27)
+
+
+### Bug Fixes
+
+* **deps:** update module github.com/aws/aws-sdk-go to v1.44.270 ([#465](https://github.com/k8sgpt-ai/k8sgpt/issues/465)) ([5cf4fc5](https://github.com/k8sgpt-ai/k8sgpt/commit/5cf4fc52da4542a8bae98764d2fa7e337d95e5bd))
+* **deps:** update module github.com/aws/aws-sdk-go to v1.44.271 ([#469](https://github.com/k8sgpt-ai/k8sgpt/issues/469)) ([1459dd4](https://github.com/k8sgpt-ai/k8sgpt/commit/1459dd4b8eca937e95ebe9b727311dc8b023e304))
+* name of sa reference in deployment ([#468](https://github.com/k8sgpt-ai/k8sgpt/issues/468)) ([cd049c9](https://github.com/k8sgpt-ai/k8sgpt/commit/cd049c9b4b188f702608d989fb32ae62f333dac5))
+* typo ([#463](https://github.com/k8sgpt-ai/k8sgpt/issues/463)) ([1b86a6f](https://github.com/k8sgpt-ai/k8sgpt/commit/1b86a6fc89f90d29fdf2fab87a517f0da225ec96))
+
+
+### Other
+
+* **deps:** update google-github-actions/release-please-action digest to 51ee8ae ([#464](https://github.com/k8sgpt-ai/k8sgpt/issues/464)) ([86ebc23](https://github.com/k8sgpt-ai/k8sgpt/commit/86ebc23de762583b5904605f5651bbc83760aa95))
+
 ## [0.3.5](https://github.com/k8sgpt-ai/k8sgpt/compare/v0.3.4...v0.3.5) (2023-05-25)
 
 
